@@ -1,6 +1,6 @@
 # 👋  **Bienvenidos a la ConstructStartup Vértice Ingeniería - BI**
 
-Aquí encontrarás el código de los proyectos finalizados y en desarrollo de toda la empresa.
+
 
 Good Vibes Cracks!
 
